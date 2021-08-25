@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Daniela reacts
+          Daniela reacts again
         </a>
       </header>
     </div>
